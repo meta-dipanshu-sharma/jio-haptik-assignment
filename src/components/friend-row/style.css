@@ -1,0 +1,46 @@
+.friend-row {
+  align-items: center;
+  border-top: 2px solid lightgray;
+  display: flex;
+  height: 55px;
+  justify-content: space-between;
+}
+
+.friend-detail {
+  padding: 20px;
+}
+
+.friend-caption {
+  color: gray;
+  font-size: 11px;
+  padding-top: 5px;
+  text-align: initial;
+}
+
+.friend-name {
+  font-size: 16px;
+  font-weight: bold;
+  text-align: initial;
+}
+
+.friend-action {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  padding-right: 30px;
+  width: 85px;
+}
+
+.friend-action > div {
+  border: 1.5px solid darkgray;
+  border-radius: 3px;
+  height: 20px;
+  padding-left: 1px;
+  padding-top: 2px;
+  width: 30px;
+}
+
+.no-friend {
+  padding-left: 20px;
+  font-size: 14px;
+}

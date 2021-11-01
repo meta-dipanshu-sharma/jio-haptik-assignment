@@ -1,0 +1,15 @@
+textarea:focus,
+input:focus {
+  outline: none;
+}
+
+.add-friend > input {
+  border: 0px solid;
+  height: 100%;
+  padding-left: 20px;
+  width: 378px;
+}
+
+.add-friend {
+  height: 27px;
+}

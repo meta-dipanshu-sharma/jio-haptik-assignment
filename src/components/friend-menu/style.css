@@ -1,0 +1,25 @@
+.friend-menu-bar {
+  justify-content: space-between;
+  margin: 100px auto 10px;
+  width: 402px;
+}
+
+.search-bar {
+  display: flex;
+  height: 30px;
+  justify-content: space-between;
+}
+
+.search-bar > input {
+  width: 300px;
+}
+
+.search-bar > button {
+  width: 65px;
+}
+
+.sort-btn {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 30px;
+}
